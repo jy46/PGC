@@ -1,4 +1,4 @@
-# Partial Generalized Coherence (PGC)
+# Partial Generalized Coherence (PGC) [![DOI](https://zenodo.org/badge/316010802.svg)](https://zenodo.org/badge/latestdoi/316010802)
 This repository contains code underlying our paper on partial generalized coherence (PGC), which quantifies frequency coupling between two time series conditioned on the activity of other time series without making any model assumptions. Furthermore, PGC is not limited to same-frequency coupling resulting from linear interactions but also can address cross-frequency coupling resulting from nonlinear interactions. Please see the paper for relevant references.
 
 ## Installation
