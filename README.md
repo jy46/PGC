@@ -25,4 +25,4 @@ A simple linear gaussian network is analyzed using partial coherence and PGC.
 A nonlinear network is analyzed using PGC.
 
 ### 3. Scaling (figure 5) ([Jupyter Notebook](figure5.ipynb))
-The scaling performance of PGC can be evaluated using Gaussian distributions.
+A demonstration of how the scaling performance of PGC can be evaluated using Gaussian distributions, which underlies the production of figure 5.
